@@ -20,7 +20,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
    * Accuracy in test dataset: 12%
 2. **Linear Regression**: To predict the relationship in total count vs total sale in each genre.
    * Explained Variance(R^2) in test dataset: 99%
-   * Mean Squared Error (MSE) in test dataset: 57746.016
+   * Mean Squared Error (MSE) in test dataset: 57746.02
 3. **Clustering**: Clustering similar data points together based on sales into 3 clusters to see which genre has the highest mean global sales.
    1. Lowest Sales
    2. Middle Sales
