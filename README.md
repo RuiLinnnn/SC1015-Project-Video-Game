@@ -23,7 +23,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
    * Mean Squared Error (MSE) in test dataset: 3483.56
 3. **Clustering**: Clustering similar data points together based on sales into 3 clusters to see which genre has the highest mean global sales.
    1. Lowest Sales
-   2. Middle Sales
+   2. Medium Sales
    3. Highest Sales (Total 9 genres in this cluster)
 4. **Decision Tree and Forest Classification**: 
    1. Decision Tree Classification: Used to classify which genre has global sales that are above 0.54 and below 0.54.
