@@ -31,7 +31,7 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
    2. Forest Classification: Used to verify the accuracy of the model.
       * Accuracy in the test dataset has increased to 45%
 ## Conclusion:
-* From the models, Role-playing has consistently high sales over the year. Therefore, it will have the highest chance of earning more sales in the future.
+* From the models, Role-playing has constantly had high sales over the years. Therefore, it has the highest chance of earning more sales in the future.
 * Action, Sports and Misc have the highest sales among all the countries.
 * PS2, X360 and PS3 have the most sales.
 * Nintendo, Electronic and Arts Activision have earned the most revenue from 1980 to 2016.
