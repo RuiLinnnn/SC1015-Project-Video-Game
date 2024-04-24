@@ -42,9 +42,9 @@ This is a Mini Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors:
 | Team Members | Work |
 | -------- | -------- |
-| Chen RuiLin | Data Preparation, Linear Regression, Clustering, Decision Tree and Random Forest Classification, Github Document |
+| Chen RuiLin | Data Preparation, Linear Regression, Clustering, Decision Tree and Random Forest Classification, Github Document, Presentation, Video Editing |
 | Balaji Abarnasri | Exploratory Data Analysis, Naive Bayes Classification, Presentation |
-| Li Yujia | Exploratory Data Analysis, Presentation |
+| Li Yujia | Exploratory Data Analysis, Presentation, Video Editing |
 
 ## References:
 * Video Game Sales dataset from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales). Accessed in 2024
